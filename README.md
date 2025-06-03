@@ -1,1 +1,1 @@
-# ROBL
+1. This framework belongs to the two-population recursive framework, in which the idea of opposition-based learning is introduced to generate opposing populations. MSGGSA needs to be applied separately in the two populations, and the obtained feature Spaces of elite individuals and parate individuals are combined as the feature space of the next round of recursion. 2. This framework needs to be used in conjunction with the MSGGSA algorithm, which involves the code and data sets can be found in the MSGGSA file.
